@@ -96,3 +96,8 @@ html {
     background-color: #CC8500;
    color:#ffffff;
  }
+
+ .addItem{
+    border-radius: 10%;
+    background-color: #FFF7E8;
+ }
